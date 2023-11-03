@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+}
+header {
+ background-color: rgb(250,50,75);
+ padding: 10px;
+}
+
+header h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+}
+
+nav a{
+  
+  color: white;
+  float: left;
+  padding: 10px;
+  text-decoration: none;
+}
+
+nav {
+  background: #333;
+  overflow: hidden;
+}
+
+a {
+  text-align: center;
+}
+
+img {
+  padding: 20px;
+}
+
+video{
+  padding: 5px;
+}
+
+footer {
+  background: #333;
+  text-align: left;
+  padding: 20px;
+  
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  padding: 0px;
+}
+
+img {
+  padding: 10px;
+}
+
+iframe
+{
+  height: 10vh;
+}
